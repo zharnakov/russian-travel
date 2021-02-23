@@ -1,0 +1,6 @@
+.lead__caption {
+    display: flex;
+    justify-content: flex-start;
+    text-transform: uppercase;
+    margin: 0;
+}
