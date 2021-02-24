@@ -3,3 +3,7 @@
     font-size: 18px;
     line-height: 163%;
 }
+
+.place__paragraph-description:first-of-type {
+    margin-bottom: 26px;
+}

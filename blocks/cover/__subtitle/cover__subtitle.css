@@ -5,3 +5,19 @@
     line-height: 22px;
     margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .cover__subtitle {
+        max-width: 325px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .cover__subtitle {
+        max-width: 288px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+}
