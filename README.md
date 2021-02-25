@@ -14,6 +14,6 @@
 5. Страница является адаптивной.
 
 **Ссылка на GitHub Pages**
-
+https://zharnakov.github.io/russian-travel/
 
 
