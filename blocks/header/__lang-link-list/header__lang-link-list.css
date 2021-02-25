@@ -1,3 +1,7 @@
 .header__lang-link-list {
     display: inline;
 }
+
+.header__lang-link-list:last-of-type {
+    margin-left: 18px;
+}
