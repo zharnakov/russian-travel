@@ -20,6 +20,7 @@
     .place {
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
+        margin-bottom: 73px;
     }
 }
 
@@ -27,5 +28,6 @@
     .place {
         grid-template-columns: 1fr;
         gap: 32px;
+        margin-bottom: 50px;
     }
 }
